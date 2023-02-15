@@ -53,5 +53,5 @@ Tkinter==0.0.0
 tornado==3.0.1
 urllib3>=1.26.5
 uWSGI==2.0.18
-Werkzeug==0.15.4
+Werkzeug==2.2.3
 flask-restful==1.0.3
